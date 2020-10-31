@@ -1,0 +1,110 @@
+[31/Oct/2020:02:17:02] (I): WordPress Instance Info:
+[31/Oct/2020:02:17:02] (I): Home URL : http://localhost/luxurybycityboy
+[31/Oct/2020:02:17:02] (I): Site URL : http://localhost/luxurybycityboy
+[31/Oct/2020:02:17:02] (I): WordPress Version : 5.5.1
+[31/Oct/2020:02:17:02] (I): Onboarding Version : 1.0.11
+[31/Oct/2020:02:17:02] (I): Multisite : No
+[31/Oct/2020:02:17:02] (I): Server Info : Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.11
+[31/Oct/2020:02:17:02] (I): PHP Version : 7.4.11
+[31/Oct/2020:02:17:02] (I): HTTPS : No
+[31/Oct/2020:02:17:02] (I): PHP Max Execution Time : 300
+[31/Oct/2020:02:17:02] (I): PHP Max Input Vars : 1000
+[31/Oct/2020:02:17:02] (I): Max Upload Size : 41943040
+[31/Oct/2020:02:17:02] (I): Plugins:
+[31/Oct/2020:02:17:02] (I): [PLUGIN] Elementor : v3.0.12 (Elementor.com)
+[31/Oct/2020:02:17:02] (I): [PLUGIN] Jetpack by WordPress.com : v9.0.2 (Automattic)
+[31/Oct/2020:02:17:02] (I): [PLUGIN] Google Ads &amp; Marketing by Kliken : v1.0.6 (Kliken)
+[31/Oct/2020:02:17:02] (I): [PLUGIN] Mailchimp for WooCommerce : v2.4.7 (Mailchimp)
+[31/Oct/2020:02:17:02] (I): [PLUGIN] Simply Static : v2.1.0 (Code of Conduct LLC)
+[31/Oct/2020:02:17:02] (I): [PLUGIN] Templates Patterns Collection : v1.0.11 (ThemeIsle)
+[31/Oct/2020:02:17:02] (I): [PLUGIN] Orbit Fox Companion : v2.10.0 (Themeisle)
+[31/Oct/2020:02:17:02] (I): [PLUGIN] WooCommerce Shipping &amp; Tax : v1.25.1 (Automattic)
+[31/Oct/2020:02:17:02] (I): [PLUGIN] WooCommerce : v4.6.1 (Automattic)
+[31/Oct/2020:02:17:02] (P): Saving remote XML
+[31/Oct/2020:02:17:02] (S): Saved remote XML at path E:\XAMP\htdocs\luxurybycityboy/wp-content/uploads/themeisle-demo-import.xml.
+[31/Oct/2020:02:17:02] (P): Starting content import...
+[31/Oct/2020:02:17:03] (S): Import started.
+[31/Oct/2020:02:17:03] (S): Parsing XML file.
+[31/Oct/2020:02:17:03] (P): Starting parsing file:E:\XAMP\htdocs\luxurybycityboy/wp-content/uploads/themeisle-demo-import.xml
+[31/Oct/2020:02:17:03] (P): Using WXR_Parser_SimpleXML...
+[31/Oct/2020:02:17:03] (S): Parsed XML
+[31/Oct/2020:02:17:03] (P): Processing categories...
+[31/Oct/2020:02:17:03] (S): Processed categories.
+[31/Oct/2020:02:17:03] (P): Processing tags...
+[31/Oct/2020:02:17:03] (S): No tags to process.
+[31/Oct/2020:02:17:03] (P): Processing terms...
+[31/Oct/2020:02:17:03] (S): Processed terms.
+[31/Oct/2020:02:17:03] (P): Processing posts...
+[31/Oct/2020:02:17:03] (S): Media nv-shop-slide1 already exists.
+[31/Oct/2020:02:17:03] (S): Media placeholder-image already exists.
+[31/Oct/2020:02:17:03] (S): Media ayo-ogunseinde-6W4F62sN_yI-unsplash-1 already exists.
+[31/Oct/2020:02:17:03] (S): Media fezbot2000-nahUo1GhcrA-unsplash already exists.
+[31/Oct/2020:02:17:03] (S): Media guilherme-stecanella-9qquJNwMOos-unsplash-1 already exists.
+[31/Oct/2020:02:17:03] (S): Media kal-visuals-emxAxutgt-A-unsplash already exists.
+[31/Oct/2020:02:17:03] (S): Media marius-held-gzXThS9ONoI-unsplash already exists.
+[31/Oct/2020:02:17:03] (S): Media monica-silva-VlMMBxSZuSI-unsplash-1 already exists.
+[31/Oct/2020:02:17:03] (S): Media roland-denes-QT94VAhgzsE-unsplash-1 already exists.
+[31/Oct/2020:02:17:03] (S): Media tamara-bellis-XGhtJXY-yY-unsplash-1 already exists.
+[31/Oct/2020:02:17:03] (S): Media tamara-bellis-9p8UKueTork-unsplash already exists.
+[31/Oct/2020:02:17:03] (S): Media yuiizaa-september-orYix9zFUZo-unsplash already exists.
+[31/Oct/2020:02:17:03] (S): Media joshua-rawson-harris-bMMOBVp6KQU-unsplash already exists.
+[31/Oct/2020:02:17:03] (S): Media aldair-vargas-3JPxEsnwNrM-unsplash already exists.
+[31/Oct/2020:02:17:03] (S): Media whereslugo-croTkGSyM64-unsplash already exists.
+[31/Oct/2020:02:17:03] (S): Media alex-perez-VLPLo-GtrIE-unsplash already exists.
+[31/Oct/2020:02:17:03] (S): Media daniel-monteiro-u8yJtV_9M9U-unsplash already exists.
+[31/Oct/2020:02:17:03] (S): Media james-connolly-WUo0EdSv9OU-unsplash already exists.
+[31/Oct/2020:02:17:03] (S): Media khachik-simonian-nXOB-wh4Oyc-unsplash already exists.
+[31/Oct/2020:02:17:03] (S): Media alex-perez-NLUkAA-nDdE-unsplash already exists.
+[31/Oct/2020:02:17:03] (S): Page Home already exists.
+[31/Oct/2020:02:17:03] (P): Filtering elementor meta...
+[31/Oct/2020:02:17:03] (S): Filtered elementor meta.
+[31/Oct/2020:02:17:03] (S): Custom CSS neve already exists.
+[31/Oct/2020:02:17:03] (S): Page Shop already exists.
+[31/Oct/2020:02:17:03] (P): Processing single menu item ' '...
+[31/Oct/2020:02:17:03] (P): Processing single menu item ' '...
+[31/Oct/2020:02:17:03] (P): Processing single menu item ' About '...
+[31/Oct/2020:02:17:03] (P): Processing single menu item ' '...
+[31/Oct/2020:02:17:04] (S): Processed single menu item.
+[31/Oct/2020:02:17:04] (P): Processing single menu item ' '...
+[31/Oct/2020:02:17:04] (S): Processed single menu item.
+[31/Oct/2020:02:17:04] (P): Processing single menu item ' '...
+[31/Oct/2020:02:17:04] (S): Processed single menu item.
+[31/Oct/2020:02:17:04] (P): Processing single menu item ' '...
+[31/Oct/2020:02:17:04] (S): Processed single menu item.
+[31/Oct/2020:02:17:04] (P): Processing single menu item ' '...
+[31/Oct/2020:02:17:04] (S): Processed single menu item.
+[31/Oct/2020:02:17:04] (P): Processing single menu item ' Hats '...
+[31/Oct/2020:02:17:05] (S): Processed single menu item.
+[31/Oct/2020:02:17:05] (P): Processing single menu item ' '...
+[31/Oct/2020:02:17:05] (S): Processed single menu item.
+[31/Oct/2020:02:17:05] (S): Media woocommerce-placeholder already exists.
+[31/Oct/2020:02:17:05] (S): Media blog-cover-3 already exists.
+[31/Oct/2020:02:17:05] (S): Media shop-logo already exists.
+[31/Oct/2020:02:17:05] (S): Media cropped-shop-logo.png already exists.
+[31/Oct/2020:02:17:05] (S): Media shop-icon already exists.
+[31/Oct/2020:02:17:05] (S): Media cropped-shop-icon.png already exists.
+[31/Oct/2020:02:17:05] (S): Page Cart already exists.
+[31/Oct/2020:02:17:05] (S): Page Checkout already exists.
+[31/Oct/2020:02:17:05] (S): Page My account already exists.
+[31/Oct/2020:02:17:05] (S): Page About Us already exists.
+[31/Oct/2020:02:17:05] (P): Filtering elementor meta...
+[31/Oct/2020:02:17:05] (S): Filtered elementor meta.
+[31/Oct/2020:02:17:05] (S): Page Contact already exists.
+[31/Oct/2020:02:17:05] (P): Filtering elementor meta...
+[31/Oct/2020:02:17:05] (S): Filtered elementor meta.
+[31/Oct/2020:02:17:05] (S): Page Blog already exists.
+[31/Oct/2020:02:17:05] (S): Processed posts.
+[31/Oct/2020:02:17:05] (P): Processing single menu item ' '...
+[31/Oct/2020:02:17:05] (S): Processed single menu item.
+[31/Oct/2020:02:17:05] (P): Processing single menu item ' '...
+[31/Oct/2020:02:17:05] (S): Processed single menu item.
+[31/Oct/2020:02:17:05] (P): Processing single menu item ' About '...
+[31/Oct/2020:02:17:05] (S): Processed single menu item.
+[31/Oct/2020:02:17:05] (P): Cleaning up import with id ...
+[31/Oct/2020:02:17:05] (P): Done cleanup. Flushing cache...
+[31/Oct/2020:02:17:05] (P): Flushed cache. Removing temporary data..
+[31/Oct/2020:02:17:05] (S): Done importing
+[31/Oct/2020:02:17:05] (P): Busting elementor cache
+[31/Oct/2020:02:17:06] (S): Front page set up with id: 5.
+[31/Oct/2020:02:17:06] (P): Setting up shop page.
+[31/Oct/2020:02:17:06] (S): Shop pages set up.
