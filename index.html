@@ -32,12 +32,6 @@ img.emoji {
 <link rel='stylesheet' id='wc-block-vendors-style-css'  href='https://hillaryy-web.github.io/luxurybycityboy/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=3.4.0' type='text/css' media='all' />
 <link rel='stylesheet' id='wc-block-style-css'  href='https://hillaryy-web.github.io/luxurybycityboy/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=3.4.0' type='text/css' media='all' />
 <link rel='stylesheet' id='woocommerce-layout-css'  href='https://hillaryy-web.github.io/luxurybycityboy/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=4.6.1' type='text/css' media='all' />
-<style id='woocommerce-layout-inline-css' type='text/css'>
-
-	.infinite-scroll .woocommerce-pagination {
-		display: none;
-	}
-</style>
 <link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://hillaryy-web.github.io/luxurybycityboy/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=4.6.1' type='text/css' media='only screen and (max-width: 768px)' />
 <link rel='stylesheet' id='woocommerce-general-css'  href='https://hillaryy-web.github.io/luxurybycityboy/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=4.6.1' type='text/css' media='all' />
 <style id='woocommerce-inline-inline-css' type='text/css'>
@@ -651,22 +645,6 @@ var wc_cart_fragments_params = {"ajax_url":"\/luxurybycityboy\/wp-admin\/admin-a
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://hillaryy-web.github.io/luxurybycityboy/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.6.1' id='wc-cart-fragments-js'></script>
-<script type='text/javascript' id='wc-cart-fragments-js-after'>
-		jQuery( 'body' ).bind( 'wc_fragments_refreshed', function() {
-			var jetpackLazyImagesLoadEvent;
-			try {
-				jetpackLazyImagesLoadEvent = new Event( 'jetpack-lazy-images-load', {
-					bubbles: true,
-					cancelable: true
-				} );
-			} catch ( e ) {
-				jetpackLazyImagesLoadEvent = document.createEvent( 'Event' )
-				jetpackLazyImagesLoadEvent.initEvent( 'jetpack-lazy-images-load', true, true );
-			}
-			jQuery( 'body' ).get( 0 ).dispatchEvent( jetpackLazyImagesLoadEvent );
-		} );
-	
-</script>
 <script type='text/javascript' id='mailchimp-woocommerce-js-extra'>
 /* <![CDATA[ */
 var mailchimp_public_data = {"site_url":"https:\/\/hillaryy-web.github.io\/luxurybycityboy","ajax_url":"https:\/\/hillaryy-web.github.io\/luxurybycityboy\/wp-admin\/admin-ajax.php","language":"en"};
